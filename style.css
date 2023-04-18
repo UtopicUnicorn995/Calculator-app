@@ -434,6 +434,7 @@ body.theme-3{
         width: 100px;
         height: 62px;
         border-radius: 10px;
+        font-size: 36px;
     }
     .calculator--button.reset, .calculator--button.equals, .calculator--button.del {
         font-size: 26px;
